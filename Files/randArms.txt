@@ -1,0 +1,5 @@
+a
+a
+a
+a
+$read(E:\Twitch\Dorpbot\Files\specialArms.txt)

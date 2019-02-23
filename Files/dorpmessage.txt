@@ -1,0 +1,3 @@
+Check out the shop and spend some of those VP to buy yourself some nice gear or maybe a pet. Type !shop or click the banner to see what's for sale.
+Use !inv to check out what you or other users currently have equipped.
+You can type !commands to see the full list of commands!
